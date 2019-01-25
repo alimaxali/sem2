@@ -60,7 +60,7 @@ echo -e '        .e$$$$e.'$cyan '   Welcome to----->{'$green'2019'$cyan'}'$blue
 sleep 0.1
 echo '      e$$$$$$$$$$e'"                         &&&&&&&&&&&&&"
 sleep 0.1
-echo -e '     $$$$$$$$$$$$$$'" Eslam Nassar""           & $green ali.max $blue &"
+echo -e '     $$$$$$$$$$$$$$'" Moussa      ""           & $green ali.max $blue &"
 sleep 0.1
 echo '    d$$$$$$$$$$$$$$b'"                       &&&&&&&&&&&&&"
 echo '    $$$$$$$$$$$$$$$$                    '
