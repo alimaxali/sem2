@@ -41,7 +41,7 @@ cd
 
 
 
-cd $HOME/payload5/.tool/sem3
+cd $HOME/payload5/.tool/sem2
 bash tool.sh
 
 cd $HOME/payload5
