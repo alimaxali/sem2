@@ -84,19 +84,33 @@ figlet  -f big "           payload 6  "
 chat
 echo -e "$cyan"
 echo -e "                _____________________"
+sleep 0.1
 echo -e "               ($blue  ali $cyan ##### $red  max $cyan  )"
+sleep 0.1
 echo -e '            /_~~~~~~~~~~~~~~~~~~~~~~~~~_\'
+sleep 0.1
 echo -e '          /~                             ~\'
-echo -e '        .~            '$g'payload6'$cyan'             ~'
+sleep 0.1
+echo -e '        .~         '$g'payload6'$cyan'             ~'
+sleep 0.1
 echo -e '    ()\/_____                           _____\/()'
+sleep 0.1
 echo -e '   .-``      ~~~~~~~~~~~~~~~~~~~~~~~~~~~     ``-.'      
+sleep 0.1
 echo -e '.-~              ____'$y'[90]helpℹ️'$cyan'____               ~-.'  
+sleep 0.1
 echo -e '`~~/~~~~~~~~~~~~TTTTTTTTTTTTTTTTTTTT~~~~~~~~~~~~\~~`'
+sleep 0.1
 echo -e '| | |'$g' #### #### '$cyan'|| | | | [] | | | || '$g'#### ####'$cyan' | | |'  
+sleep 0.1
 echo -e ';__\|___________|++++++++++++++++++|___________|/__;'
+sleep 0.1
 echo -e ' (~~====___________________________________====~~~)'
+sleep 0.1
 echo -e '  \------_____________[CHIP 911]__________-------/'
+sleep 0.1
 echo -e '     |      ||         ~~~~~~~~       ||      |'
+sleep 0.1
 echo -e '      \_____/                          \_____/'
 
 
