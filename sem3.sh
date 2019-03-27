@@ -91,7 +91,7 @@ echo -e '            /_~~~~~~~~~~~~~~~~~~~~~~~~~_\'
 sleep 0.1
 echo -e '          /~                             ~\'
 sleep 0.1
-echo -e '        .~         '$g'payload6'$cyan'             ~'
+echo -e '        .~             '$g'payload6'$cyan'             ~'
 sleep 0.1
 echo -e '    ()\/_____                           _____\/()'
 sleep 0.1
