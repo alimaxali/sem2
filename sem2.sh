@@ -114,6 +114,7 @@ echo -e "$yellow|  [4]   ngrok 🌐  |  $red  [5] virus ☢️️|  $reset [6]  
 echo "     "
 echo -e "$purple|  [7] facebook   $blue      [8] Encrypt   $cyan [9]   tool root   |"
 echo -e " $green          --------------------------------------"
+echo -e "                     $red [$cyan"$cyan"1212$red]password"
 echo -e "                     $red [$cyan"$cyan"7777$red]Dump area"
 echo -e "              $red [$cyan"$cyan"8888$red]Backup photo/Video"
 echo -e "              $red [$cyan"$cyan"9999$red]Backup photo/Video ($cyan root$red )"
