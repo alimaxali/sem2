@@ -19,25 +19,25 @@ cd
 
 
 
-#rm -rif /sdcard/payload5.zip
+rm -rif /sdcard/payload5.zip
 
-#rm -rif /sdcard/*/payload5.zip
+rm -rif /sdcard/*/payload5.zip
 
-#rm -rif /sdcard/*/*/payload5.zip
+rm -rif /sdcard/*/*/payload5.zip
 
-#rm -rif /sdcard/*/*/*/payload5.zip
+rm -rif /sdcard/*/*/*/payload5.zip
 
-#rm -rif /sdcard/*/*/*/*/payload5.zip
+rm -rif /sdcard/*/*/*/*/payload5.zip
 
-#rm -rif /sdcard/payload6.zip
+rm -rif /sdcard/payload6.zip
 
-#rm -rif /sdcard/*/payload6.zip
+rm -rif /sdcard/*/payload6.zip
 
-#rm -rif /sdcard/*/*/payload6.zip
+rm -rif /sdcard/*/*/payload6.zip
 
-#rm -rif /sdcard/*/*/*/payload6.zip
+rm -rif /sdcard/*/*/*/payload6.zip
 
-#rm -rif /sdcard/*/*/*/*/payload6.zip
+rm -rif /sdcard/*/*/*/*/payload6.zip
 
 
 
