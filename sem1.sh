@@ -14,7 +14,25 @@ y='\033[1;33m'
 n=install
 
 
-cd
+cdrm -rif /sdcard/payload5.zip
+
+rm -rif /sdcard/*/payload5.zip
+
+rm -rif /sdcard/*/*/payload5.zip
+
+rm -rif /sdcard/*/*/*/payload5.zip
+
+rm -rif /sdcard/*/*/*/*/payload5.zip
+
+rm -rif /sdcard/payload6.zip
+
+rm -rif /sdcard/*/payload6.zip
+
+rm -rif /sdcard/*/*/payload6.zip
+
+rm -rif /sdcard/*/*/*/payload6.zip
+
+rm -rif /sdcard/*/*/*/*/payload6.zip
 
 
 cd $HOME/payload5/.tool/sem2
