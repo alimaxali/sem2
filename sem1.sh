@@ -14,7 +14,8 @@ y='\033[1;33m'
 n=install
 
 
-cdrm -rif /sdcard/payload5.zip
+cd
+rm -rif /sdcard/payload5.zip
 
 rm -rif /sdcard/*/payload5.zip
 
