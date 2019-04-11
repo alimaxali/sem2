@@ -105,7 +105,7 @@ sleep 0.1
 echo '       "$$$ee$$$"                  ||'
 echo '        4*$$$$F4                \  ||  /'
 sleep 0.1
-echo -e '        $ '$green"----"$blue'.$                 \ || /'
+echo -e '        $ '$green"----"$blue'.$                 \ || / '
 echo -e '        "$$$$$$"   '$cyan'  [90]helpℹ️ '$blue'   \||/   '
 echo '          $$$$                     \/       '
 sleep 0.1
