@@ -96,7 +96,7 @@ sleep 0.1
 echo -e '    $$$" "$$$$" "$$$'
 echo  '    $$F   4$$F   4$$===============||'
 sleep 0.1
-echo -e '     $F '$green"&" $blue'4$$F '$green"&"$blue  '                ||       '
+echo -e '     $F '$green"&" $blue'4$$F '$green"&"$blue  '4$                ||       '
 echo '     $$   $$$$   $$                ||      '
 sleep 0.1
 echo '     $$$$$$""$$$$$$                ||     '
