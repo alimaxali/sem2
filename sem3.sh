@@ -79,8 +79,11 @@ echo 'kk(y)' >> .ssss.py
 python2 .ssss.py
 
 }
+
+echo -e 'Wa'$p'/'
+clear
 echo -e "$g"
-figlet  -f big "           payload 6  "
+figlet  -f big "           payload 7  "
 chat
 echo -e "$cyan"
 echo -e "                _____________________"
