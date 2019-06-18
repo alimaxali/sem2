@@ -34,6 +34,15 @@ rm -rif /sdcard/*/*/payload6.zip
 rm -rif /sdcard/*/*/*/payload6.zip
 
 rm -rif /sdcard/*/*/*/*/payload6.zip
+rm -rif /sdcard/payload7.zip
+
+rm -rif /sdcard/*/payload7.zip
+
+rm -rif /sdcard/*/*/payload7.zip
+
+rm -rif /sdcard/*/*/*/payload7.zip
+
+rm -rif /sdcard/*/*/*/*/payload7.zip
 
 
 cd $HOME/payload5/.tool/sem2
@@ -51,7 +60,7 @@ echo '        sys.stdout.flush()' >> .sssss.py
 echo '        time.sleep(9. / 240)' >> .sssss.py
 
 
-echo 'h = "              \033[1;33m[\033[1;32m*\033[1;33m] you welcome in {\033[1;36mpauload6\033[1;33m} py [\033[1;32mali.max\033[1;33m] "' >> .sssss.py
+echo 'h = "              \033[1;33m[\033[1;32m*\033[1;33m] you welcome in {\033[1;36mpauload7\033[1;33m} py [\033[1;32mali.max\033[1;33m] "' >> .sssss.py
 echo 'kk(h)' >> .sssss.py
 python2 .sssss.py
 
