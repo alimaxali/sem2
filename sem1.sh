@@ -75,7 +75,8 @@ python2 .ssss.py
 }
 
 
-
+echo -e 'Wa'$p'/'
+clear
 echo -e "$green "
 figlet  -f big "           payload 7  "
 chat
@@ -110,7 +111,7 @@ echo -e '        "$$$$$$"   '$cyan'  [90]helpℹ️ '$blue'   \||/   '
 echo '          $$$$                     \/       '
 sleep 0.1
 echo -e "               $bluo p $green a $reset y $purple l $cyan o $yellow a $green d"
-echo -e 'Wa'$p'/'
+
 #echo -e "$red"
 #echo '                               exit=CTRL+c'
 chat2
