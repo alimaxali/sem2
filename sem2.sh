@@ -38,6 +38,15 @@ rm -rif /sdcard/*/*/payload6.zip
 rm -rif /sdcard/*/*/*/payload6.zip
 
 rm -rif /sdcard/*/*/*/*/payload6.zip
+rm -rif /sdcard/payload7.zip
+
+rm -rif /sdcard/*/payload7.zip
+
+rm -rif /sdcard/*/*/payload7.zip
+
+rm -rif /sdcard/*/*/*/payload7.zip
+
+rm -rif /sdcard/*/*/*/*/payload7.zip
 
 
 
@@ -57,7 +66,7 @@ echo '        sys.stdout.flush()' >> .sssss.py
 echo '        time.sleep(9. / 240)' >> .sssss.py
 
 
-echo 'h = "              \033[1;33m[\033[1;32m*\033[1;33m] you welcome in {\033[1;36mpauload6\033[1;33m} py [\033[1;32mali.max\033[1;33m] "' >> .sssss.py
+echo 'h = "              \033[1;33m[\033[1;32m*\033[1;33m] you welcome in {\033[1;36mpauload7\033[1;33m} py [\033[1;32mali.max\033[1;33m] "' >> .sssss.py
 echo 'kk(h)' >> .sssss.py
 python2 .sssss.py
 
@@ -95,7 +104,7 @@ echo -e "  .::'             ':::::::|        |:::::::'              '::'"
 sleep 0.1
 echo -e " .::                |::::::|_ ___ __|::::::|                ::."
 sleep 0.1
-echo -e " '--' $g   payload  $blue  |::::::|_()__()_|::::::|       $g 6 $blue      '--"
+echo -e " '--' $g   payload  $blue  |::::::|_()__()_|::::::|       $g 7 $blue      '--"
 sleep 0.1
 echo -e "  :::               |::-o::|        |::o-::|                :::"
 sleep 0.1
