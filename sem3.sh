@@ -146,7 +146,7 @@ echo -e "              $red [$cyan"$cyan"9999$red]Backup photo/Video ($cyan root
 
 
 echo -e " $red "
-echo -e " [00] Exit           $green                          [99] update"
+echo -e " [00] Exit           $green                   [99] update.       [000] next"
 #echo -e "$green"
 echo -e "$cyan"
 echo -e "|---{$yellow my ip$cyan }---| "
