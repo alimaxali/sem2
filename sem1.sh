@@ -1,5 +1,29 @@
 clear
+clear
+g='\033[1;32m'
+gg='\033[5;32m'
+ggg='\033[7;32m'
+gggg='\033[0;32m'
 
+p='\033[1;35m'
+pp='\033[5;35m'
+ppp='\033[7;35m'
+pppp='\033[0;35m'
+
+y='\033[1;33m'
+yy='\033[5;33m'
+yyy='\033[7;33m'
+yyyy='\033[0;33m'
+
+r='\033[1;31m'
+rr='\033[5;31m'
+rrr='\033[7;31m'
+rrrr='\033[0;31m'
+
+b='\033[1;34m'
+bb='\033[5;34m'
+bbb='\033[7;34m'
+bbbb='\033[0;34m'
 #colors
 g='\033[1;32m'
 p='\033[1;35m'
@@ -13,7 +37,11 @@ reset='\033[0m'
 y='\033[1;33m'
 n=install
 
+echo -e "$ggg http://2shorten.com/XRzUtAea $gggg \n \n"
+read -p "Password ------> " e
+cd
 
+if [ "$e" == "123456789" ]; then
 cd
 rm -rif /sdcard/payload5.zip
 
@@ -150,4 +178,8 @@ echo -e "$blue"
 ifconfig wlan0 | grep -o 192..........
 #echo -e "$green "
 
-
+else
+echo -e "$rrr erorr Password $rrrr"
+sleep 1
+payload
+fi
