@@ -182,7 +182,7 @@ echo -e " $red "
 echo -e " [00] Exit           $green           [99] update.       [000] next"
 #echo -e "$green"
 echo -e "$cyan"
-echo -e "|---{$yellow my ip$cyan }---| 
+echo -e "|---{$yellow my ip$cyan }---|" 
 echo -e "  $g (y)  $r  (n)"
 read -p "  " fff
 if [ "$fff" == "y" ]; then
