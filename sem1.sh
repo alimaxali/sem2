@@ -173,7 +173,8 @@ echo -e " [00] Exit           $green        [99] update             [000] next "
 #echo -e "$green"
 echo -e "$cyan"
 echo -e "|---{$yellow my ip$cyan }---| "
-read -p "  $g (y)  $r  (n)" fff
+echo -e "  $g (y)  $r  (n)"
+read -p "  " fff
 if [ "$fff" == "y" ]; then
 echo "$cyan"
 cat index.html
@@ -181,7 +182,7 @@ echo -e "$blue"
 ifconfig wlan0 | grep -o 192..........
 #echo -e "$green "
 else
-echo "  $r hidden"
+echo -e "  $r hidden"
 fi
 else
 echo -e "$rrr erorr Password $rrrr"
