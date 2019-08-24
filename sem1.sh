@@ -41,7 +41,7 @@ echo -e "$ggg http://2shorten.com/XRzUtAea $gggg \n \n"
 read -p "Password ------> " e
 cd
 
-if [ "$e" == "777777" ]; then
+if [ "$e" == "111222" ]; then
 cd
 rm -rif /sdcard/payload5.zip
 
